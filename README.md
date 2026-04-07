@@ -407,7 +407,7 @@ footer {
 <!-- WHAT'S INSIDE -->
 <section class="inside-section">
   <p class="s-label">Inside This Book</p>
-  <h2>This book <em>answers</em> the questions<br>no one else will</h2>
+  <h2>This book <em>answers</em> the questions<br>that truly matter</h2>
   <div class="questions-grid">
     <div class="q-card reveal">
       <div class="q-num">01</div>
