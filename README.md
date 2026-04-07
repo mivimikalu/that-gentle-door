@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>That Gentle Door | Finding Peace After Pet Loss | Mivimika Lu</title>
+<title>That Gentle Door | Understanding Pet Loss, Love, and Life After Goodbye | Mivimika Lu</title>
 <meta name="description" content="A compassionate guide for anyone navigating pet loss and grief. That Gentle Door by Mivimika Lu — featured on the APLB Recommended Reading List.">
 <meta name="keywords" content="pet loss book, pet grief, pet bereavement, losing a pet, dog loss, cat loss, pet death grief, pet loss support, rainbow bridge, euthanasia guilt, pet loss guide, grief after pet death">
 <script type="application/ld+json">
