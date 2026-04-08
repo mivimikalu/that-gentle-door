@@ -560,7 +560,7 @@ footer {
     <img src="cta.jpg" alt="Golden light">
   </div>
   <div class="cta-content reveal">
-    <h2>"Your love was enough.<br>It was always enough."</h2>
+    <h2>Your love was enough.<br>It was always enough.</h2>
     <p>Available now in Kindle &amp; Paperback</p>
     <div class="cta-btns">
       <a href="https://www.amazon.com/That-Gentle-Door-Understanding-Goodbye/dp/B0GJNFJV7S" target="_blank" class="btn-main">Buy on Amazon US</a>
